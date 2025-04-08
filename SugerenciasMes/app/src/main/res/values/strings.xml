@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Sugerencias del mes</string>
+
+    <string name="daySug0">Día 1</string>
+    <string name="nameSug0">El primer paso nunca es el más fácil, pero sí el que inicia el camino.</string>
+    <string name="descriptionSug0">Esta frase enfatiza la importancia de dar el primer paso hacia cualquier objetivo, reconociendo que puede ser desafiante, pero es esencial para comenzar el progreso.</string>
+
+    <string name="daySug1">Día 2</string>
+    <string name="nameSug1">Pequeñas acciones, grandes cambios.</string>
+    <string name="descriptionSug1">Se refiere a cómo las acciones aparentemente insignificantes, cuando se realizan de manera constante, pueden llevar a resultados significativos a largo plazo.</string>
+
+    <string name="daySug2">Día 3</string>
+    <string name="nameSug2">La perseverancia vence al talento cuando el talento no persevera.</string>
+    <string name="descriptionSug2">Esta frase subraya que la constancia y la dedicación son más importantes que la habilidad innata si esta última no se cultiva con esfuerzo.</string>
+
+    <string name="daySug3">Día 4</string>
+    <string name="nameSug3">Cada día es una nueva oportunidad para brillar.</string>
+    <string name="descriptionSug3">Recuerda que cada jornada ofrece la posibilidad de empezar de nuevo, aprender y mostrar lo mejor de uno mismo.</string>
+
+    <string name="daySug4">Día 5</string>
+    <string name="nameSug4">Cree en ti mismo, incluso cuando nadie más lo haga.</string>
+    <string name="descriptionSug4">Fomenta la autoconfianza y la importancia de mantener la fe en las propias capacidades, independientemente de la opinión de los demás.</string>
+
+    <string name="daySug5">Día 6</string>
+    <string name="nameSug5">El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.</string>
+    <string name="descriptionSug5">Sugiere que encontrar alegría y satisfacción en lo que se hace es lo que conduce al verdadero éxito, y no al revés.</string>
+
+    <string name="daySug6">Día 7</string>
+    <string name="nameSug6">Aprende del ayer, vive el hoy, sueña con el mañana.</string>
+    <string name="descriptionSug6">Una invitación a reflexionar sobre el pasado para mejorar, a enfocarse en el presente y a mantener la esperanza y la visión para el futuro.</string>
+
+    <string name="daySug7">Día 8</string>
+    <string name="nameSug7">No esperes el momento perfecto, crea el momento.</string>
+    <string name="descriptionSug7">Incentiva la proactividad y a no postergar los objetivos esperando condiciones ideales, sino a tomar la iniciativa.</string>
+
+    <string name="daySug8">Día 9</string>
+    <string name="nameSug8">La única manera de hacer un gran trabajo es amar lo que haces.</string>
+    <string name="descriptionSug8">Resalta la importancia de la pasión y el disfrute en el trabajo para alcanzar resultados sobresalientes.</string>
+
+    <string name="daySug9">Día 10</string>
+    <string name="nameSug9">Los desafíos no son obstáculos, son oportunidades para crecer.</string>
+    <string name="descriptionSug9">Presenta las dificultades como instancias para aprender, fortalecerse y desarrollarse personalmente.</string>
+
+    <string name="daySug10">Día 11</string>
+    <string name="nameSug10">Tu actitud determina tu altitud.</string>
+    <string name="descriptionSug10">Subraya cómo la disposición mental y la perspectiva influyen directamente en el nivel de éxito que se puede alcanzar.</string>
+
+    <string name="daySug11">Día 12</string>
+    <string name="nameSug11">Si puedes soñarlo, puedes lograrlo.</string>
+    <string name="descriptionSug11">Un recordatorio del poder de la imaginación y la creencia en la posibilidad de alcanzar las metas propuestas.</string>
+
+    <string name="daySug12">Día 13</string>
+    <string name="nameSug12">La paciencia es amarga, pero sus frutos son dulces.</string>
+    <string name="descriptionSug12">Enfatiza que, aunque la espera puede ser difícil, la recompensa final del esfuerzo perseverante será gratificante.</string>
+
+    <string name="daySug13">Día 14</string>
+    <string name="nameSug13">No te compares con los demás, compite contigo mismo para ser mejor cada día.</string>
+    <string name="descriptionSug13">Fomenta el crecimiento personal basado en la superación de los propios límites y no en la competencia con otros.</string>
+
+    <string name="daySug14">Día 15</string>
+    <string name="nameSug14">El éxito es la suma de pequeños esfuerzos repetidos día tras día.</string>
+    <string name="descriptionSug14">Similar a la segunda frase, refuerza la idea de que la consistencia en las acciones diarias es clave para el logro.</string>
+
+    <string name="daySug15">Día 16</string>
+    <string name="nameSug15">La vida es 10% lo que te sucede y 90% cómo reaccionas a ello.</string>
+    <string name="descriptionSug15">Destaca la importancia de la actitud y la respuesta personal ante las circunstancias de la vida.</string>
+
+    <string name="daySug16">Día 17</string>
+    <string name="nameSug16">No tengas miedo de fallar, ten miedo de no intentarlo.</string>
+    <string name="descriptionSug16">Incentiva la valentía de tomar riesgos y perseguir los objetivos, superando el temor al fracaso.</string>
+
+    <string name="daySug17">Día 18</string>
+    <string name="nameSug17">Tu mente es un jardín, cultiva pensamientos positivos.</string>
+    <string name="descriptionSug17">Una metáfora que sugiere que los pensamientos influyen en el bienestar y los resultados, por lo que es importante enfocarse en lo positivo.</string>
+
+    <string name="daySug18">Día 19</string>
+    <string name="nameSug18">El único límite real es el que te pones a ti mismo.</string>
+    <string name="descriptionSug18">Anima a superar las autolimitaciones y a reconocer el potencial ilimitado que cada persona posee.</string>
+
+    <string name="daySug19">Día 20</string>
+    <string name="nameSug19">La inspiración existe, pero tiene que encontrarte trabajando.</string>
+    <string name="descriptionSug19">Sugiere que la motivación y las ideas a menudo surgen durante la acción y el esfuerzo, no esperando pasivamente.</string>
+
+    <string name="daySug20">Día 21</string>
+    <string name="nameSug20">Cada error es una oportunidad disfrazada de aprendizaje.</string>
+    <string name="descriptionSug20">Fomenta una perspectiva positiva sobre los fallos, viéndolos como valiosas lecciones para el crecimiento.</string>
+
+    <string name="daySug21">Día 22</string>
+    <string name="nameSug21">La confianza en sí mismo es el primer secreto del éxito.</string>
+    <string name="descriptionSug21">Reafirma la importancia de la autoconfianza como un pilar fundamental para alcanzar las metas.</string>
+
+    <string name="daySug22">Día 23</string>
+    <string name="nameSug22">El camino hacia el éxito siempre está en construcción.</string>
+    <string name="descriptionSug22">Recuerda que el progreso y el logro son procesos continuos que requieren esfuerzo y adaptación constantes.</string>
+
+    <string name="daySug23">Día 24</string>
+    <string name="nameSug23">Sé el cambio que quieres ver en el mundo.</string>
+    <string name="descriptionSug23">Una invitación a la acción personal y a convertirse en el modelo de las transformaciones deseadas.</string>
+
+    <string name="daySug24">Día 25</string>
+    <string name="nameSug24">Las cosas buenas llegan a quienes saben esperar y trabajar por ellas.</string>
+    <string name="descriptionSug24">Combina la importancia de la paciencia con la necesidad de esfuerzo activo para obtener resultados positivos.</string>
+
+    <string name="daySug25">Día 26</string>
+    <string name="nameSug25">No importa lo lento que vayas, siempre y cuando no te detengas.</string>
+    <string name="descriptionSug25">Prioriza la constancia y el avance continuo sobre la velocidad, recordando que lo importante es no rendirse.</string>
+
+    <string name="daySug26">Día 27</string>
+    <string name="nameSug26">La creatividad es la inteligencia divirtiéndose.</string>
+    <string name="descriptionSug26">Sugiere que la innovación y el pensamiento original pueden surgir de una mentalidad lúdica y exploratoria.</string>
+
+    <string name="daySug27">Día 28</string>
+    <string name="nameSug27">El coraje no es la ausencia de miedo, sino la decisión de que algo más es importante que el miedo.</string>
+    <string name="descriptionSug27">Define el valor como la capacidad de actuar a pesar del temor, motivado por un propósito mayor.</string>
+
+    <string name="daySug28">Día 29</string>
+    <string name="nameSug28">La mejor forma de predecir el futuro es crearlo.</string>
+    <string name="descriptionSug28">Enfatiza el poder de la acción y la planificación para influir en los resultados futuros, en lugar de solo anticiparlos.</string>
+
+    <string name="daySug29">Día 30</string>
+    <string name="nameSug29">Hoy es el mañana del que te preocupabas ayer.</string>
+    <string name="descriptionSug29">Una reflexión sobre cómo las preocupaciones futuras a menudo se convierten en el presente, animando a vivir el día actual con perspectiva.</string>
+</resources>
