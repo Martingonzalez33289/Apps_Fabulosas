@@ -1,0 +1,2 @@
+Bienvenido al servicio de consulta de bases de datos de la biblioteca. Desde el siguiente formulario podrás acceder con el correo institucional como estudiante, docente o funcionario de la Universidad de Caldas.
+Si eres egresado de la Universidad de Caldas, podrás solicitar activación de cuenta desde un link, después de solicitar tu cuenta, ingresa con tu número de cédula en usuario y contraseña.
